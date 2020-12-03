@@ -1,0 +1,34 @@
+A list of books to use on testint the flask apps.
+
+books_list = [
+    {
+        "id": 0,
+        "author": "J. K. Rowling",
+        "Language": "English",
+        "title": "Harry Potter and the chamber of secrets"
+    },
+    {
+        "id": 1,
+        "author": "J. K. Rowling",
+        "Language": "English",
+        "title": "Harry Potter and the prisioner of Azkabhan"
+    },
+    {
+        "id": 2,
+        "author": "J. K. Rowling",
+        "Language": "English",
+        "title": "Harry Potter and the gobblet of fire"
+    },
+    {
+        "id": 3,
+        "author": "J. R. R. Tolkien",
+        "Language": "English",
+        "title": "The Hobbit"
+    },
+    {
+        "id": 4,
+        "author": "J. R. R. Tolkien",
+        "Language": "English",
+        "title": "The Silmarilon"
+    }
+]
