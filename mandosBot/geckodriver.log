@@ -1,0 +1,763 @@
+1607013836833	geckodriver	INFO	Listening on 127.0.0.1:63428
+1607013839952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofileDhOdiG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607013849077	Marionette	INFO	Listening on port 63436
+1607013849130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607013872924	Marionette	INFO	Stopped listening on port 63436
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607013888312	geckodriver	INFO	Listening on 127.0.0.1:63517
+1607013891330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofilexXM2fi"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607013896298	Marionette	INFO	Listening on port 63525
+1607013896592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607013924336	Marionette	INFO	Stopped listening on port 63525
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607014143986	geckodriver	INFO	Listening on 127.0.0.1:63629
+1607014147058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofilelFGdCZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014150767	Marionette	INFO	Listening on port 63637
+1607014151252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+o-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofile1CkIbY"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014224834	Marionette	INFO	Listening on port 63742
+1607014224984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+1607014239649	Marionette	INFO	Stopped listening on port 63742
+1607014256767	geckodriver	INFO	Listening on 127.0.0.1:63816
+1607014259800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofileVebydu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014264938	Marionette	INFO	Listening on port 63824
+1607014265090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607014274309	Marionette	INFO	Stopped listening on port 63824
+1607014288921	geckodriver	INFO	Listening on 127.0.0.1:63895
+1607014292006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofilen6j1QD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014295819	Marionette	INFO	Listening on port 63903
+1607014296182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607014304634	Marionette	INFO	Stopped listening on port 63903
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1607014486916	geckodriver	INFO	Listening on 127.0.0.1:63987
+1607014489953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofile14rYto"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014494528	Marionette	INFO	Listening on port 63996
+1607014494777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+less mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014525804	Marionette	INFO	Listening on port 64096
+1607014526118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607014541988	Marionette	INFO	Stopped listening on port 64096
+1607014547477	geckodriver	INFO	Listening on 127.0.0.1:64170
+1607014550471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofileAkRoVA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014555573	Marionette	INFO	Listening on port 64178
+1607014555716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-2&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Temp\\rust_mozprofileN0abRa"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1607014596234	Marionette	INFO	Listening on port 64283
+1607014596708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607014628220	Marionette	INFO	Stopped listening on port 64283
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 16972, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1607014704428	geckodriver	INFO	Listening on 127.0.0.1:64373
+1607014707464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofileXlDBdY"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 18396, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607014731702	Marionette	INFO	Listening on port 64381
+1607014732658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Store.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014877472	Marionette	INFO	Listening on port 64497
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Temp\\rust_mozprofilehnecSd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014893330	Marionette	INFO	Listening on port 64536
+1607014893604	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://s.latamstatic.com/js/libs/external/require/2.1.8/require.js, line 8: Error: Script error for: maxymiser
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ozprofileoSzixo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014961724	Marionette	INFO	Listening on port 64638
+1607014962062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-2&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607015103443	Marionette	INFO	Stopped listening on port 64638
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile5NYB4p"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607015047318	Marionette	INFO	Listening on port 64741
+1607015047561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+1607015067836	Marionette	INFO	Stopped listening on port 64741
+[Parent 20620, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607015555966	geckodriver	INFO	Listening on 127.0.0.1:64864
+1607015559099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofileYZ3gMY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607015567901	Marionette	INFO	Listening on port 64872
+1607015568135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-02&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607015584085	Marionette	INFO	Stopped listening on port 64872
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607015592119	geckodriver	INFO	Listening on 127.0.0.1:64945
+1607015595163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofileQOKv3m"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607015599844	Marionette	INFO	Listening on port 64953
+1607015600825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-02&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+1607015616112	Marionette	INFO	Stopped listening on port 64953
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607015618796	geckodriver	INFO	Listening on 127.0.0.1:65034
+1607015621848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofile7eSJ9w"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607015625818	Marionette	INFO	Listening on port 65042
+1607015626028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: TypeError: /([0-9]{1,3}(\.[0-9]{1,3}){3}|[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7})/.exec(...) is null
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=25&fecha1_anomes=2021-02&fecha2_dia=&fecha2_anomes=&from_city1=SAO&to_city1=LON&from_city2=LON&to_city2=SAO&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607015640850	Marionette	INFO	Stopped listening on port 65042
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607015757955	geckodriver	INFO	Listening on 127.0.0.1:65124
+1607015761014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofilemonHFK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607015764979	Marionette	INFO	Listening on port 65132
+1607015765186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-10&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607015777511	Marionette	INFO	Stopped listening on port 65132
+[Parent 21180, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607015779432	geckodriver	INFO	Listening on 127.0.0.1:65210
+1607015782496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofile82aOO0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607015786031	Marionette	INFO	Listening on port 65218
+1607015786162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-02&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607015797864	Marionette	INFO	Stopped listening on port 65218
+1607015799771	geckodriver	INFO	Listening on 127.0.0.1:65288
+1607015802863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofileiB1qIz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607015806281	Marionette	INFO	Listening on port 65296
+1607015806536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=10&fecha1_anomes=2021-02&fecha2_dia=&fecha2_anomes=&from_city1=LON&to_city1=SAO&from_city2=SAO&to_city2=LON&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607015828069	Marionette	INFO	Stopped listening on port 65296
+1607015830288	geckodriver	INFO	Listening on 127.0.0.1:65381
+1607015833436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lfbia\\AppData\\Local\\Temp\\rust_mozprofile7RQ4qE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607015837253	Marionette	INFO	Listening on port 65389
+1607015837648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.pontosmultiplus.com.br/cestaautenticacao/app/multiplus-sdk.js, line 1: unreachable code after return statement
+JavaScript error: https://www.latam.com/pt_br/apps/personas/booking?fecha1_dia=25&fecha1_anomes=2021-02&fecha2_dia=&fecha2_anomes=&from_city1=SAO&to_city1=LON&from_city2=LON&to_city2=SAO&ida_vuelta=ida&cabina=Y&nadults=1&nchildren=0&ninfants=0&application=lanpass#/, line 366: TypeError: e is null
+1607015850541	Marionette	INFO	Stopped listening on port 65389
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-MJ285C5, line 738: NS_ERROR_NOT_INITIALIZED: 
+[Parent 5304, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
