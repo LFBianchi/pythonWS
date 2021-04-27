@@ -45,7 +45,7 @@ def variance(x):
     if len(x) > 1:
         n = len(x)
         deviations = de_mean(x)
-        return Vectors.sum_of_squares(deviations) / (n - 1)
+        return vectors.sum_of_squares(deviations) / (n - 1)
     else :
         return 0
     
