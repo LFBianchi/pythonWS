@@ -1,6 +1,6 @@
-import vectors
-import matrices
 import math
+from vectors import *
+from matrices import *
 from collections import Counter
 
 def mean(x):
@@ -45,7 +45,7 @@ def variance(x):
     if len(x) > 1:
         n = len(x)
         deviations = de_mean(x)
-        return vectors.sum_of_squares(deviations) / (n - 1)
+        return sum_of_squares(deviations) / (n - 1)
     else :
         return 0
     
@@ -55,3 +55,17 @@ def standard_deviation(x):
 def interquartile_range(x):
     return quantile(x, 0.75) - quantile(x, 0.25)
 
+def covariance(x, y):
+    n = len(x)
+    return dot(de_mean(x), de_mean(y)) / (n - 1)
+
+def correlation(x, y):
+    stdev_x = standard_deviation(x)
+    stdev_y = standard_deviation(y)
+    
+    if stdev_x > 0 and stdev_y > 0:
+        return covariance(x, y) / stdev_x / stdev_y
+    else:
+        return 0 #Correlation requires variation.
+    
+    
