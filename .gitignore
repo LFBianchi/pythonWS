@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# DS from Scratch
+/DS/DS from Scratch/Getting Data/twithon/.credentials.json
